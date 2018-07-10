@@ -8,4 +8,4 @@ def using_while
   end
 end
 
-levitation_force
+puts levitation_force
